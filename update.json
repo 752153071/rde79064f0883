@@ -1,19 +1,21 @@
 {
   "version": "2026.10.01.4",
-  "sha256": "94011d4d21667b0c4ddb56de64e28a6e581001d7babfdbfae6ede72447c78229",
-  "notes": "自动更新优化版：支持多镜像自动切换与断点续传，授权码 752153071。",
+  "sha256": "225b8c7e999220e875f502348db3d3b26b776921013717efbdccce5b3504baa8",
+  "notes": "自动更新优化版：多镜像自动切换、分片下载与断点续传，授权码 752153071。",
   "parts": [
     {
       "sha256": "d66d1e44bd6ab8d2ca4ae25cc6c5ceae81f3c25cbb3a37baba91e809ceec9750",
       "urls": [
-        "https://cdn.jsdelivr.net/gh/752153071/rde79064f0883@f66a7e6a0778022f0bdb1911efe3652269373d40/update_2026.10.01.4.part1.bin",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/752153071/rde79064f0883/main/update_2026.10.01.4.part1.bin",
+        "https://cdn.jsdelivr.net/gh/752153071/rde79064f0883@420203bb638a2c01bae0833787cb534de878993b/update_2026.10.01.4.part1.bin",
         "https://github.com/752153071/rde79064f0883/raw/main/update_2026.10.01.4.part1.bin"
       ]
     },
     {
-      "sha256": "1d30db7b44153a083626004712dcfeeebfae256ff63ee3de644ce9ccd2e47bdc",
+      "sha256": "eba5f091dbd38559e9fe52f7f0262f0c13a29925e8adf9f1ddcf20968fb6eecb",
       "urls": [
-        "https://cdn.jsdelivr.net/gh/752153071/rde79064f0883@f66a7e6a0778022f0bdb1911efe3652269373d40/update_2026.10.01.4.part2.bin",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/752153071/rde79064f0883/main/update_2026.10.01.4.part2.bin",
+        "https://cdn.jsdelivr.net/gh/752153071/rde79064f0883@420203bb638a2c01bae0833787cb534de878993b/update_2026.10.01.4.part2.bin",
         "https://github.com/752153071/rde79064f0883/raw/main/update_2026.10.01.4.part2.bin"
       ]
     }
