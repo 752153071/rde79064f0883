@@ -1,24 +1,24 @@
 {
-    "version":  "2026.10.01.8",
-    "sha256":  "fb1a2edf288c86404b4bb6093c782be6e32ad1cbc3d55e1db5b89e35357379ab",
-    "notes":  "自动更新版 2026.10.01.8",
+    "version":  "2026.10.01.9",
+    "sha256":  "0e56fa61e3eeecb0b8111bc7c7a2c0dbd70cd1dd9d1b6b8ba9b8a6e4049dc642",
+    "notes":  "自动更新版 2026.10.01.9",
     "parts":  [
                   {
-                      "sha256":  "948b0cf206a8259728b3256ffe768f7cadbee1432b2bfd9792733bd77bdfa595",
+                      "sha256":  "bfbe3021a37da644f49cbb11c287c14e96033f935e15eb292ed646d650e05d1b",
                       "urls":  [
-                                   "https://gh-proxy.com/https://raw.githubusercontent.com/752153071/rde79064f0883/main/update_2026.10.01.8_948b0cf2.part1.bin",
-                                   "https://github.com/752153071/rde79064f0883/raw/main/update_2026.10.01.8_948b0cf2.part1.bin"
+                                   "https://gh-proxy.com/https://raw.githubusercontent.com/752153071/rde79064f0883/main/update_2026.10.01.9_bfbe3021.part1.bin",
+                                   "https://github.com/752153071/rde79064f0883/raw/main/update_2026.10.01.9_bfbe3021.part1.bin"
                                ]
                   },
                   {
-                      "sha256":  "c9a40421cda8938e41cdd5fbd6ee1f2abff6bb1c0ec97f3512a990f263ffabf3",
+                      "sha256":  "21282c9f03aede40c70248f5b24eb37f9fecd65a71d864c07b837100b8794cc1",
                       "urls":  [
-                                   "https://gh-proxy.com/https://raw.githubusercontent.com/752153071/rde79064f0883/main/update_2026.10.01.8_c9a40421.part2.bin",
-                                   "https://github.com/752153071/rde79064f0883/raw/main/update_2026.10.01.8_c9a40421.part2.bin"
+                                   "https://gh-proxy.com/https://raw.githubusercontent.com/752153071/rde79064f0883/main/update_2026.10.01.9_21282c9f.part2.bin",
+                                   "https://github.com/752153071/rde79064f0883/raw/main/update_2026.10.01.9_21282c9f.part2.bin"
                                ]
                   }
               ],
     "urls":  [
-                 "https://github.com/752153071/rde79064f0883/releases/download/v2026.10.01.8/update.zip"
+                 "https://github.com/752153071/rde79064f0883/releases/download/v2026.10.01.9/update.zip"
              ]
 }
