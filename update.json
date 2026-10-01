@@ -1,26 +1,26 @@
 {
-    "version":  "2026.10.01.6",
-    "sha256":  "85137b535856136efc42671fe688071391cfb64686959e8cc6d848853e770525",
-    "notes":  "自动更新版 2026.10.01.6",
+    "version":  "2026.10.01.7",
+    "sha256":  "ee44d04820ff8c178fa6b466afe5f2fb76ff0707d3a10212c8c3f3397fbc661b",
+    "notes":  "自动更新版 2026.10.01.7",
     "parts":  [
                   {
-                      "sha256":  "f6f6c6bfcc3b077573e01420c0682160d9b5f5310e4b0ff49c62fd6c746ff1c7",
+                      "sha256":  "b96c4b7c3551e1339f2e14ea8f398461d69873283751e638d772016a2225121d",
                       "urls":  [
-                                   "https://gh-proxy.com/https://raw.githubusercontent.com/752153071/rde79064f0883/main/update_2026.10.01.6_f6f6c6bf.part1.bin",
-                                   "https://cdn.jsdelivr.net/gh/752153071/rde79064f0883@ed36bfd2e70563ffa0db1f1770731ede0a7d53fe/update_2026.10.01.6_f6f6c6bf.part1.bin",
-                                   "https://github.com/752153071/rde79064f0883/raw/main/update_2026.10.01.6_f6f6c6bf.part1.bin"
+                                   "https://gh-proxy.com/https://raw.githubusercontent.com/752153071/rde79064f0883/main/update_2026.10.01.7_b96c4b7c.part1.bin",
+                                   "https://cdn.jsdelivr.net/gh/752153071/rde79064f0883@67fa7f81fb5c3f5a883f656d9f2454992e9fa86e/update_2026.10.01.7_b96c4b7c.part1.bin",
+                                   "https://github.com/752153071/rde79064f0883/raw/main/update_2026.10.01.7_b96c4b7c.part1.bin"
                                ]
                   },
                   {
-                      "sha256":  "e6c831962b734a076e65d48b6981190cadd640c547b17c1b75131f60c85d2497",
+                      "sha256":  "ada188ee20f88d838c2a4abc78c306f1b77dcf21dd9773a1e24ab6b4115a155a",
                       "urls":  [
-                                   "https://gh-proxy.com/https://raw.githubusercontent.com/752153071/rde79064f0883/main/update_2026.10.01.6_e6c83196.part2.bin",
-                                   "https://cdn.jsdelivr.net/gh/752153071/rde79064f0883@ed36bfd2e70563ffa0db1f1770731ede0a7d53fe/update_2026.10.01.6_e6c83196.part2.bin",
-                                   "https://github.com/752153071/rde79064f0883/raw/main/update_2026.10.01.6_e6c83196.part2.bin"
+                                   "https://gh-proxy.com/https://raw.githubusercontent.com/752153071/rde79064f0883/main/update_2026.10.01.7_ada188ee.part2.bin",
+                                   "https://cdn.jsdelivr.net/gh/752153071/rde79064f0883@67fa7f81fb5c3f5a883f656d9f2454992e9fa86e/update_2026.10.01.7_ada188ee.part2.bin",
+                                   "https://github.com/752153071/rde79064f0883/raw/main/update_2026.10.01.7_ada188ee.part2.bin"
                                ]
                   }
               ],
     "urls":  [
-                 "https://github.com/752153071/rde79064f0883/releases/download/v2026.10.01.6/update.zip"
+                 "https://github.com/752153071/rde79064f0883/releases/download/v2026.10.01.7/update.zip"
              ]
 }
