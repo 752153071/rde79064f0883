@@ -1,45 +1,45 @@
 {
-  "version": "2026.10.02.4",
-  "sha256": "4a70a5cfc41d071f353042a4478c120192bc4c09c4c70c0a9c2036ba47743185",
-  "notes": "自动更新版 2026.10.02.4",
+  "version": "2026.10.02.5",
+  "sha256": "c36df287a101bf2927dfea7af826f9160aae37240cca72e78e419c8daef415a4",
+  "notes": "自动更新版 2026.10.02.5",
   "parts": [
     {
-      "sha256": "6c8513c97e73de1a3dae59c7b73a006a728ef3e2195f373c6480cec1deea7886",
+      "sha256": "17d72e40907ae0bc445fb78938af35d6746589c83db4363230a1518029c95a2f",
       "urls": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/752153071/rde79064f0883/main/update_2026.10.02.4_6c8513c9.part1.bin",
-        "https://github.com/752153071/rde79064f0883/raw/main/update_2026.10.02.4_6c8513c9.part1.bin"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/752153071/rde79064f0883/main/update_2026.10.02.5_17d72e40.part1.bin",
+        "https://github.com/752153071/rde79064f0883/raw/main/update_2026.10.02.5_17d72e40.part1.bin"
       ]
     },
     {
-      "sha256": "d93c70caf1c5bffbee8a1cc29f6616c3ba12d272e642d36036506ee73e89b090",
+      "sha256": "194b852e732bb812897097da86bed899d7f3781f38a95ccd28723b4564ffa69b",
       "urls": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/752153071/rde79064f0883/main/update_2026.10.02.4_d93c70ca.part2.bin",
-        "https://github.com/752153071/rde79064f0883/raw/main/update_2026.10.02.4_d93c70ca.part2.bin"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/752153071/rde79064f0883/main/update_2026.10.02.5_194b852e.part2.bin",
+        "https://github.com/752153071/rde79064f0883/raw/main/update_2026.10.02.5_194b852e.part2.bin"
       ]
     },
     {
-      "sha256": "a305a6ef66038aaaf09c97468c0bd57055217731fc02bec01e944b47aa168041",
+      "sha256": "5b8402f4bf5c2c6a1aa95fd8a4b7889c730bf0d51773153da7416eee277d67f7",
       "urls": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/752153071/rde79064f0883/main/update_2026.10.02.4_a305a6ef.part3.bin",
-        "https://github.com/752153071/rde79064f0883/raw/main/update_2026.10.02.4_a305a6ef.part3.bin"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/752153071/rde79064f0883/main/update_2026.10.02.5_5b8402f4.part3.bin",
+        "https://github.com/752153071/rde79064f0883/raw/main/update_2026.10.02.5_5b8402f4.part3.bin"
       ]
     },
     {
-      "sha256": "1317930b249cb98daeddd983cae85b625d44ae8910f99a694dcb5e159a4d6db1",
+      "sha256": "422546d4666bfd08d86b163c4b7af2ffacb24cdb2edee638901a91a1d58dcb60",
       "urls": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/752153071/rde79064f0883/main/update_2026.10.02.4_1317930b.part4.bin",
-        "https://github.com/752153071/rde79064f0883/raw/main/update_2026.10.02.4_1317930b.part4.bin"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/752153071/rde79064f0883/main/update_2026.10.02.5_422546d4.part4.bin",
+        "https://github.com/752153071/rde79064f0883/raw/main/update_2026.10.02.5_422546d4.part4.bin"
       ]
     },
     {
-      "sha256": "5f0fee91027410160d408097fd6a0aaf3c1b5e7a3b8b161c0956ab7a3d65b245",
+      "sha256": "dfa1c040d0a1030ff9f06590a4336bcbe505b0f1bc2329d524dc4891e157df50",
       "urls": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/752153071/rde79064f0883/main/update_2026.10.02.4_5f0fee91.part5.bin",
-        "https://github.com/752153071/rde79064f0883/raw/main/update_2026.10.02.4_5f0fee91.part5.bin"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/752153071/rde79064f0883/main/update_2026.10.02.5_dfa1c040.part5.bin",
+        "https://github.com/752153071/rde79064f0883/raw/main/update_2026.10.02.5_dfa1c040.part5.bin"
       ]
     }
   ],
   "urls": [
-    "https://github.com/752153071/rde79064f0883/releases/download/v2026.10.02.4/update.zip"
+    "https://github.com/752153071/rde79064f0883/releases/download/v2026.10.02.5/update.zip"
   ]
 }
