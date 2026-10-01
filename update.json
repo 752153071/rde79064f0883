@@ -1,8 +1,24 @@
 {
-  "version": "2026.10.01.3",
-  "urls": [
-    "https://github.com/752153071/rde79064f0883/releases/download/v2026.10.01.3/update.zip"
+  "version": "2026.10.01.4",
+  "sha256": "94011d4d21667b0c4ddb56de64e28a6e581001d7babfdbfae6ede72447c78229",
+  "notes": "自动更新优化版：支持多镜像自动切换与断点续传，授权码 752153071。",
+  "parts": [
+    {
+      "sha256": "d66d1e44bd6ab8d2ca4ae25cc6c5ceae81f3c25cbb3a37baba91e809ceec9750",
+      "urls": [
+        "https://cdn.jsdelivr.net/gh/752153071/rde79064f0883@f66a7e6a0778022f0bdb1911efe3652269373d40/update_2026.10.01.4.part1.bin",
+        "https://github.com/752153071/rde79064f0883/raw/main/update_2026.10.01.4.part1.bin"
+      ]
+    },
+    {
+      "sha256": "1d30db7b44153a083626004712dcfeeebfae256ff63ee3de644ce9ccd2e47bdc",
+      "urls": [
+        "https://cdn.jsdelivr.net/gh/752153071/rde79064f0883@f66a7e6a0778022f0bdb1911efe3652269373d40/update_2026.10.01.4.part2.bin",
+        "https://github.com/752153071/rde79064f0883/raw/main/update_2026.10.01.4.part2.bin"
+      ]
+    }
   ],
-  "sha256": "1c3fcfa5ba5e4ea1ccad2ed97f84421de579ae16aeeba8b15e55b3b73de39f67",
-  "notes": "最终授权自动更新版：固定授权码、机器绑定授权、软件内一键检查更新。"
+  "urls": [
+    "https://github.com/752153071/rde79064f0883/releases/download/v2026.10.01.4/update.zip"
+  ]
 }
